@@ -1,4 +1,3 @@
 # roboshop
 
-This is a sample readme file 
-first commit
+This is a sample readme file
