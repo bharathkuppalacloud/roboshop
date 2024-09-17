@@ -21,3 +21,7 @@ echo -e "\e[33mTESTINGCOLOR Hello world in yellow color\e[0m"
 echo -e "\e[34mTESTINGCOLOR Hello world in blue color\e[0m"
 echo -e "\e[35mTESTINGCOLOR Hello world in Magneta color\e[0m"
 echo -e "\e[36mTESTINGCOLOR Hello world in Cyan color\e[0m"
+
+echo -e "Hello\nWorld"
+
+echo -e "Hello\t\t\tWorld"
